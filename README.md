@@ -45,10 +45,10 @@ Tool: OpenAI GPT-4 (can be replaced with Gemini)
 
 Tools Used and Purpose :
 
-Python - Main development language
-Playwright	- Web scraping and screenshots
-OpenAI / Gemini	- AI writing and reviewing agents
-ChromaDB	- Document storage and versioning
-scikit-learn	- Cosine similarity calculations
-JSON	- Logging feedback for retrieval learning
+- Python - Main development language
+- Playwright	- Web scraping and screenshots
+- OpenAI / Gemini	- AI writing and reviewing agents
+- ChromaDB	- Document storage and versioning
+- scikit-learn	- Cosine similarity calculations
+- JSON	- Logging feedback for retrieval learning
 
